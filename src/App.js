@@ -1,4 +1,4 @@
-import {BrowserRouter as Router, Link, Route, Routes } from "react-router-dom";
+import {HashRouter as Router, Link, Route, Routes } from "react-router-dom";
 import { PasswordGenerator } from "./components/PasswordGenerator";
 import { useDebounce } from "./components/useDebounce";
 import "./components/style.css"
